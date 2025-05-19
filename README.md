@@ -1,16 +1,20 @@
-# integration_package
+# 🚀 Flutter Package Integration Tool
 
-A new Flutter project.
+This is an automated tool to integrate the `google_maps_flutter` package into any Flutter project. Built as part of the HeyFlutter.com developer onboarding task.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Select any Flutter project directory
+- Automatically adds `google_maps_flutter` to `pubspec.yaml`
+- Configures required settings for Android and iOS
+- Prompts for a Google Maps API key
+- Inserts a working Google Maps example 
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Open the folder (screenshots/)
+- Please ignore (delete) this folder if you want to run the code 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ State Management
+
+- Riverpod
